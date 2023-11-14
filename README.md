@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iandancan
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning cyber security
+- 👀 I’m interested in cyber security 
+- 🌱 I’m currently learning webdevelopmenta
 - 💞️ I’m looking to collaborate on webdevelopment
 - 📫 How to reach me ogwangawenslaus@gmail.com
 
