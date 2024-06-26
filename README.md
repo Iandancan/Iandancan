@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Iandancan
+- 👋 Hi, I’m wenslaus ian
 - 👀 I’m interested in cyber security 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me ogwangawenslaus@gmail.com
+- 📫 How to reach me ogwangawenslaus042@gmail.com
 
 <!---
 Iandancan/Iandancan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
